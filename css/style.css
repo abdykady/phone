@@ -1,0 +1,45 @@
+#block{
+width:800px;
+margin:auto;
+border:9px solid #00F0FF ;
+padding:50px;
+border-radius:15px;
+background-color:white;
+}
+img{
+width:100%;
+}
+.link{
+text-align:right;
+}
+.word{
+color:#d00edb;
+}
+body{
+background-image:url("https://krot.info/uploads/posts/2021-11/1636627701_5-krot-info-p-zakat-solntsa-v-gorode-krasivoe-foto-5.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+background-position:left top;
+}
+.link a{
+color:pink;
+text-decoration:none;
+background-color:#0008FF ;
+padding:5px 10px;
+}
+.link a:hover{
+color:yellow;
+background-color:grey;
+}
+.menu a{
+font-size:28px;
+color:grey;
+text-decoration:none;
+border:3px solid #FF6400 ;
+padding:5px;
+margin:0px 50px 0px 0px;
+}
+.menu a:hover{
+background:#FFFB00 ;
+}
